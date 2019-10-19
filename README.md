@@ -1,3 +1,12 @@
+# Phil Anderson's Blog
+
+
+## October 19, 2019
+
+## Blog with the actual site created and posted to GitHub using a Contentful Starter template.  Once posted to GitHub, Netlify reads the repo and publishes it online.  The API keys have to be added to the environment variables on Netlify in order for the content to build correctly.  Once all built, new blog posts can be added by writing them on Contentful.
+
+
+
 # Contentful Gatsby Starter Blog
 
 Create a [Gatsby](http://gatsbyjs.com/) blog powered by [Contentful](https://www.contentful.com). This is a simplified version of the [Gatsby Contentful Starter](https://github.com/contentful-userland/gatsby-contentful-starter) which is maintained by our Community.
