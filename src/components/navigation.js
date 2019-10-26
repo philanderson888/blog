@@ -15,6 +15,7 @@ export default () => (
   <li className = {
     styles.navigationItem
   }><Link to = "/blog/" > Blog < /Link> </li> 
+  <li><a href="https://epic-hamilton-f35937.netlify.com/">My VueJS Website</a></li>
   </ul> 
   </nav>
 )
