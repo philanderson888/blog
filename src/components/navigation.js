@@ -7,25 +7,18 @@ export default () => (
   <ul className = {
     styles.navigation
   }>
-  <
-  li className = {
+  <li className = {
     styles.navigationItem
-  } >
-  <
-  Link to = "/" > Home < /Link> <
-  /li> <
-  li className = {
+  }>
+  <Link to = "/" > Home < /Link> 
+  </li> 
+  <li className = {
     styles.navigationItem
-  } >
-  <
-  Link to = "/blog/" > Blog < /Link> <
-  /li> <
-  li > className = {
+  }><Link to = "/blog/" > Blog < /Link> </li> 
+  <li > className = {
     styles.navigationItem
-  } >
-  <
-  Link to = "https://epic-hamilton-f35937.netlify.com/" > VueJS Teaching Website < /Link> <
-  /li> <
-  /ul> <
-  /nav>
+  }><Link to = "https://epic-hamilton-f35937.netlify.com/" > VueJS Teaching Website </Link> 
+  </li> 
+  </ul> 
+  </nav>
 )
