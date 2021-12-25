@@ -11,18 +11,6 @@ class AboutIndex extends React.Component {
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
         <div className="wrapper">
-
-          <h2 className="section-headline">How To Find Me</h2>
-
-          <ul>
-            <li>
-              <strong>LinkedIn </strong><a href="https://www.linkedin.com/in/phil-anderson-60648a11/">phil-anderson-60648a11</a>
-            </li>
-            <li>
-              <strong>Instagram </strong><a href="https://www.instagram.com/philanderson888">philanderson888</a>
-            </li>
-
-          </ul>
           
           <h2 className="section-headline">A Little About Me</h2>
           
@@ -38,6 +26,10 @@ class AboutIndex extends React.Component {
           </p>
 
           <h2 className="section-headline">Tech Skills And Interests</h2>
+
+          <p>
+            I have a wide range of interests and skills, varying widely from IT Support, Networking, Security and Cybersecurity through to development in an array of different languages and technologies.  Some of my <a href="https://github.com/philanderson888?tab=repositories">GitHub repositories</a> give a flavour of the diversity of my interests and some of them are listed below.  Currently I'm looking into mobile app development with <a href="https://flutter.dev">Google Flutter</a>
+          </p>
 
           <ul>
             <li>
