@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import styles from './blog.module.css'
 import ArticlePreview from '../components/article-preview'
 
-class BlogIndex extends React.Component {
+class ContactIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allContentfulBlogPost.edges')
@@ -33,10 +33,10 @@ class BlogIndex extends React.Component {
   }
 }
 
-export default BlogIndex
+export default ContactIndex
 
 export const pageQuery = graphql`
-  query BlogIndexQuery {
+  query ContactIndexQuery {
     allContentfulBlogPost(sort: { fields: [publishDate], order: DESC }) {
       edges {
         node {
