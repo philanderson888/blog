@@ -17,11 +17,12 @@ class ContactIndex extends React.Component {
           <h2 className="section-headline">How To Find Me</h2>
           <ul>
             <li>
-              <strong>Instagram </strong><a href="https://www.instagram.com/philanderson888">philanderson888</a>
-            </li>
-            <li>
               <strong>LinkedIn </strong><a href="https://www.linkedin.com/in/phil-anderson-60648a11/">phil-anderson-60648a11</a>
             </li>
+            <li>
+              <strong>Instagram </strong><a href="https://www.instagram.com/philanderson888">philanderson888</a>
+            </li>
+
           </ul>
           
           <h2 className="section-headline">A Little About Me</h2>
@@ -38,7 +39,7 @@ class ContactIndex extends React.Component {
           </p>
 
           <h2 className="section-headline">Tech Skills And Interests</h2>
-          
+
           <ul>
             <li>
               <strong>GitHub </strong><a href="https://github.com/philanderson888">philanderson888</a>
