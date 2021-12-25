@@ -14,7 +14,9 @@ class ContactIndex extends React.Component {
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
         <div className="wrapper">
+
           <h2 className="section-headline">How To Find Me</h2>
+
           <ul>
             <li>
               <strong>LinkedIn </strong><a href="https://www.linkedin.com/in/phil-anderson-60648a11/">phil-anderson-60648a11</a>
@@ -24,14 +26,10 @@ class ContactIndex extends React.Component {
             </li>
 
           </ul>
-
-          <div className="spacer">&nbsp;</div>
           
           <h2 className="section-headline">A Little About Me</h2>
           
           <p>I am happily married, have been for many years now and live in North London with my wife and family.  My interests include playing the piano and guitar and working out regularly, also I am a passionate born-again Christian and help with charities such as helping people in <a href="https://www.gofundme.com/manage/christian-missionary-orphanage-in-pakistan">persecuted nations</a> and here at home in the UK also with volunteering with organisations such as <a href="https://northenfield.foodbank.org.uk">Enfield Food Bank</a> and <a href="https://jubileechurchlondon.org">Jubilee Church London</a></p>
-          
-          <div className="spacer">&nbsp;</div>
 
           <h2 className="section-headline">Work And Career</h2>
 
@@ -41,8 +39,6 @@ class ContactIndex extends React.Component {
           <p>
             Recently I have turned my focus to being a programmer, initially focusing on training graduates into developer roles at the fantastic company <a href="https://www.spartaglobal.com">Sparta Global</a> but more recently I have gone to work myself as a software engineer.  I've been working with both <a href="https://reactjs.org">ReactJS</a> and more recently building TV applications with <a href="https://developer.roku.com/en-gb/overview">Roku Brightscript</a> and am currently enjoying working on a major contract for one of the UK's largest streaming TV providers.
           </p>
-
-          <div className="spacer">&nbsp;</div>
 
           <h2 className="section-headline">Tech Skills And Interests</h2>
 
