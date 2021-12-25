@@ -70,3 +70,7 @@ a {
   .list-inline li {
     display: inline-block;
   }
+
+  .spacer{
+    margin-top: 5vh;
+  }

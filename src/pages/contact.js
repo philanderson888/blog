@@ -41,7 +41,7 @@ class ContactIndex extends React.Component {
             Recently I have turned my focus to being a programmer, initially focusing on training graduates into developer roles at the fantastic company <a href="https://www.spartaglobal.com">Sparta Global</a> but more recently I have gone to work myself as a software engineer.  I've been working with both <a href="https://reactjs.org">ReactJS</a> and more recently building TV applications with <a href="https://developer.roku.com/en-gb/overview">Roku Brightscript</a> and am currently enjoying working on a major contract for one of the UK's largest streaming TV providers.
           </p>
 
-          <hr />
+          <hr className="spacer" />
 
           <h2 className="section-headline">Tech Skills And Interests</h2>
 
