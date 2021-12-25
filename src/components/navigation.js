@@ -14,6 +14,9 @@ export default () => (
   </li> 
   <li className = {
     styles.navigationItem
+  }><Link to = "/about/" > About < /Link> </li> 
+  <li className = {
+    styles.navigationItem
   }><Link to = "/blog/" > Blog < /Link> </li> 
   <li className = {styles.navigationItem}><a href="https://epic-hamilton-f35937.netlify.com/">VueJS</a></li>
   <li className = {
