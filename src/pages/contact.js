@@ -21,7 +21,15 @@ class ContactIndex extends React.Component {
             <li>
               <strong>Instagram </strong><a href="https://www.instagram.com/philanderson888">philanderson888</a>
             </li>
-
+            <li>
+              <strong>Facebook </strong><a href="https://www.facebook.com/philanderson888">philanderson888</a>
+            </li>
+            <li>
+              <strong>Twitter </strong><a href="https://twitter.com/philanderson888">philanderson888</a>
+            </li>
+            <li>
+              <strong>GitHub </strong><a href="https://github.com/philanderson888">philanderson888</a>
+            </li>
           </ul>
 
         </div>
