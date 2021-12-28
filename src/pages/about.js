@@ -57,6 +57,38 @@ class AboutIndex extends React.Component {
             </li>
           </ul>
 
+          <h2 className="section-headline">Charity Work</h2>
+
+          <p>As a Christian I have a strong interest in helping others in various different ways such as - </p>
+
+          <ul>
+            <li>
+              <a href="https://northenfield.foodbank.org.uk">Enfield Foodbank</a>
+              <p>Enfield foodbank is a lifeline to various people in the community who need a helping hand with provisions etc on a very practical level.  It's a joy to get involved with such a blessed organisation which puts the gospel into practice in a very caring and loving way, without being judgemental in any way - they are genuinely there to serve the needs of others.</p>
+            </li>
+            <li>
+              <a href="https://jubileechurchlondon.org">Jubilee Church London</a>
+              <p>As a member of this church I serve in various capacities and also help out in the tech department</p>
+            </li>
+            <li>
+              GoFundMe Campaigns
+              <ul>
+                <a href="https://www.gofundme.com/manage/saba-ajmal-care-ministry-of-pakistan">2020</a>
+                <a href="https://www.gofundme.com/manage/christian-missionary-orphanage-in-pakistan">2021</a>
+              </ul>
+            </li>
+            <li>
+              Christian Merchandise Shop which my daughter Hannah is building!  <a href="https://jesusislord.uk">JesusIsLord.uk</a>
+            </li>
+            <li>
+              <p>Piano And Worship</p>
+              <p>As a self-taught pianist I have an interest in expressing my love for the Lord in song and in worship.  I actually can play the piano 'by ear' ie can pick up melodies, chords and song structure just by listening to the song at hand, whether be on the radio or live in person at an event.  I'm not a super expert pianist but I can hold my own at about Grade 2/3/4 level no problem and can help in a worship band play songs to a congregation.  I can also sing a little bit and can even, on occasion, lead worship.  From time to time myself and my wife do online worship sessions direct from our home and we often use a platform called '<a href="https://www.facebook.com/burn247global">Burn 24/7</a>' to do this which is a movement to bring Christians together from around the world in an atmosphere of prayer and worship. 
+              </p>
+              <p>I also play around with very experimental 'hobbyist' recording such as on this <a href="https://www.youtube.com/playlist?list=PLj4RRqmdO6GJKZJjUro7wxgzAfIqhv-k6">channel </a> on YouTube which has a few songs that I wrote, performed and recorded with very basic home equipment.</p>
+            </li>
+            
+          </ul>
+
         </div>
       </div>
     )

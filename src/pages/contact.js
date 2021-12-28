@@ -30,7 +30,13 @@ class ContactIndex extends React.Component {
             <li>
               <strong>GitHub </strong><a href="https://github.com/philanderson888">philanderson888</a>
             </li>
+            <li>
+              <strong>YouTube </strong><a href="https://www.youtube.com/user/PhilipMAnderson">PhilipMAnderson</a>
+            </li>
           </ul>
+
+
+          
 
         </div>
       </div>
