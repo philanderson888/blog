@@ -73,8 +73,12 @@ class AboutIndex extends React.Component {
             <li>
               GoFundMe Campaigns
               <ul>
-                <a href="https://www.gofundme.com/manage/saba-ajmal-care-ministry-of-pakistan">2020</a>
-                <a href="https://www.gofundme.com/manage/christian-missionary-orphanage-in-pakistan">2021</a>
+                <li>
+                  <a href="https://www.gofundme.com/manage/saba-ajmal-care-ministry-of-pakistan">2020</a>
+                </li>
+                <li>
+                  <a href="https://www.gofundme.com/manage/christian-missionary-orphanage-in-pakistan">2021</a>
+                </li>
               </ul>
             </li>
             <li>
@@ -84,7 +88,8 @@ class AboutIndex extends React.Component {
               <p>Piano And Worship</p>
               <p>As a self-taught pianist I have an interest in expressing my love for the Lord in song and in worship.  I actually can play the piano 'by ear' ie can pick up melodies, chords and song structure just by listening to the song at hand, whether be on the radio or live in person at an event.  I'm not a super expert pianist but I can hold my own at about Grade 2/3/4 level no problem and can help in a worship band play songs to a congregation.  I can also sing a little bit and can even, on occasion, lead worship.  From time to time myself and my wife do online worship sessions direct from our home and we often use a platform called '<a href="https://www.facebook.com/burn247global">Burn 24/7</a>' to do this which is a movement to bring Christians together from around the world in an atmosphere of prayer and worship. 
               </p>
-              <p>I also play around with very experimental 'hobbyist' recording such as on this <a href="https://www.youtube.com/playlist?list=PLj4RRqmdO6GJKZJjUro7wxgzAfIqhv-k6">channel </a> on YouTube which has a few songs that I wrote, performed and recorded with very basic home equipment.</p>
+              <p>I also play around with very experimental 'hobbyist' recording such as on this <a href="https://www.youtube.com/playlist?list=PLj4RRqmdO6GJKZJjUro7wxgzAfIqhv-k6">channel </a> on YouTube which has a few songs that I wrote, performed and recorded with very basic home equipment.
+              </p>
             </li>
             
           </ul>
