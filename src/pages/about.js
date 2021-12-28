@@ -82,7 +82,7 @@ class AboutIndex extends React.Component {
               </ul>
             </li>
             <li>
-              Christian Merchandise Shop which my daughter Hannah is building!  <a href="https://jesusislord.uk">JesusIsLord.uk</a>
+              <p>Christian Merchandise Shop which my daughter Hannah is building!  <a href="https://jesusislord.uk">JesusIsLord.uk</a></p>
             </li>
             <li>
               <p>Piano And Worship</p>
