@@ -94,6 +94,15 @@ class AboutIndex extends React.Component {
             
           </ul>
 
+
+          <h2 className="section-headline">Websites</h2>
+
+          <p>Recently I have bought several charity domain websites with the idea of pushing several different ventures.  Most of these are placeholder domains at the moment.</p> 
+          <ul>
+            <li>
+              <p><a href="https://effectivemethodsofevangelism.com">EffectiveMethodsOfEvangelism.com</a></p>
+            </li>
+          </ul>
         </div>
       </div>
     )
