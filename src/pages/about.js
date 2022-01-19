@@ -100,7 +100,7 @@ class AboutIndex extends React.Component {
           <p>Recently I have bought several charity domain websites with the idea of pushing several different ventures.  Most of these are placeholder domains at the moment.</p> 
           <ul>
             <li>
-              <p><a href="https://effectivemethodsofevangelism.com">EffectiveMethodsOfEvangelism.com</a></p>
+              <p><a href="https://www.effectivemethodsofevangelism.com">EffectiveMethodsOfEvangelism.com</a></p>
             </li>
           </ul>
         </div>
