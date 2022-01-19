@@ -30,14 +30,6 @@ class ContactIndex extends React.Component {
             <li>
               <strong>GitHub </strong><a href="https://github.com/philanderson888">philanderson888</a>
             </li>
-            <li>
-              <strong>YouTube </strong><a href="https://www.youtube.com/user/PhilipMAnderson">PhilipMAnderson</a>
-              <ul>
-                <li>
-                  <strong>YouTube Worship </strong><a href="https://www.youtube.com/playlist?list=PLj4RRqmdO6GJKZJjUro7wxgzAfIqhv-k6">Gospel Worship </a> 
-                </li>
-              </ul>
-            </li>
           </ul>
         </div>
       </div>
