@@ -4,18 +4,15 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import styles from './blog.module.css'
 import ArticlePreview from '../components/article-preview'
-import Hero2 from '../components/hero2'
 
 class BlogIndex extends React.Component {
   render() {
     const siteTitle = get(this, 'props.data.site.siteMetadata.title')
     const posts = get(this, 'props.data.allContentfulBlogPost.edges')
-    const [author] = get(this, 'props.data.allContentfulPerson.edges')
 
     return (
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
-        <Hero2 data={author.node} />
         <div className={styles.hero}>
           Blog
         </div>
