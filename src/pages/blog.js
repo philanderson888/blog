@@ -4,6 +4,7 @@ import get from 'lodash/get'
 import Helmet from 'react-helmet'
 import styles from './blog.module.css'
 import ArticlePreview from '../components/article-preview'
+import Hero2 from '../components/hero2'
 
 class BlogIndex extends React.Component {
   render() {
@@ -13,7 +14,7 @@ class BlogIndex extends React.Component {
     return (
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
-        <Hero data={author.node} />
+        <Hero2 data={author.node} />
         <div className={styles.hero}>
           Blog
         </div>
