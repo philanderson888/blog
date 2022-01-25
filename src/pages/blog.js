@@ -13,7 +13,7 @@ class BlogIndex extends React.Component {
     return (
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
-        <Hero2 data={author.node} />
+        <Hero data={author.node} />
         <div className={styles.hero}>
           Blog
         </div>
