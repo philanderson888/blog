@@ -17,7 +17,7 @@ export default () => (
   }><Link to = "/about/" > About Me < /Link> </li> 
   <li className = {
     styles.navigationItem
-  }><Link to = "/about/" > About This Site < /Link> </li> 
+  }><Link to = "/about-this-site/" > About This Site < /Link> </li> 
   <li className = {
     styles.navigationItem
   }><Link to = "/blog/" > Blog < /Link> </li> 
