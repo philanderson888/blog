@@ -21,6 +21,7 @@ export default () => (
   <li className = {
     styles.navigationItem
   }><Link to = "/blog/" > Blog < /Link> </li> 
+  <li className = {styles.navigationItem}><a href="https://epic-hamilton-f35937.netlify.com/">Learning</a></li>
   <li className = {styles.navigationItem}><a href="https://epic-hamilton-f35937.netlify.com/">VueJS with Bulma CSS</a></li>
   <li className = {
     styles.navigationItem
