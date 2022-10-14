@@ -1,5 +1,25 @@
 # Phil Anderson's Blog
 
+## contents
+
+- [Phil Anderson's Blog](#phil-andersons-blog)
+  - [contents](#contents)
+  - [update October 2022](#update-october-2022)
+  - [October 29, 2019](#october-29-2019)
+    - [Displaying A Pack Of Cards](#displaying-a-pack-of-cards)
+  - [October 19, 2019](#october-19-2019)
+  - [Blog with the actual site created and posted to GitHub using a Contentful Starter template.  Once posted to GitHub, Netlify reads the repo and publishes it online.  The API keys have to be added to the environment variables on Netlify in order for the content to build correctly.  Once all built, new blog posts can be added by writing them on Contentful.](#blog-with-the-actual-site-created-and-posted-to-github-using-a-contentful-starter-template--once-posted-to-github-netlify-reads-the-repo-and-publishes-it-online--the-api-keys-have-to-be-added-to-the-environment-variables-on-netlify-in-order-for-the-content-to-build-correctly--once-all-built-new-blog-posts-can-be-added-by-writing-them-on-contentful)
+- [Contentful Gatsby Starter Blog](#contentful-gatsby-starter-blog)
+  - [Features](#features)
+  - [Getting started](#getting-started)
+  - [Crucial Commands](#crucial-commands)
+    - [`npm run dev`](#npm-run-dev)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run serve`](#npm-run-serve)
+
+## update October 2022
+
+This site is no longer building so I may have to get the source code afresh from https://github.com/contentful/starter-gatsby-blog, clone it and start again then put in all of the existing content back on top of the new source code ... watch this space!
 
 ## October 29, 2019
 
